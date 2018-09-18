@@ -21,5 +21,6 @@ The collection of cheetsheet for you to practise and revise.
 14. Math Statistics
 15. Neural Networks
 16. Pyspark
+17. Super Machine Learning 
 
 I will keep updating the list.  Fork it to get the updates
