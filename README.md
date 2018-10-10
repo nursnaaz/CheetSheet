@@ -22,5 +22,9 @@ The collection of cheetsheet for you to practise and revise.
 15. Neural Networks
 16. Pyspark
 17. Super Machine Learning 
+18. Tensorflow
+19. Time Series in R
+20. Pytorch
+21. R for Data Science
 
 I will keep updating the list.  Fork it to get the updates
