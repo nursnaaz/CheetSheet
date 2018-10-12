@@ -26,5 +26,6 @@ The collection of cheetsheet for you to practise and revise.
 19. Time Series in R
 20. Pytorch
 21. R for Data Science
+22. Glossary list of ML terms
 
 I will keep updating the list.  Fork it to get the updates
