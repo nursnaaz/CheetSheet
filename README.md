@@ -29,4 +29,4 @@ The collection of cheetsheet for you to practise and revise.
 22. Glossary list of ML terms
 23. Mathematics formulae that changed the world
 
-I will keep updating the list.  Fork it to get the updates
+I will keep updating the list.  Follow me and watch it to get the updates
