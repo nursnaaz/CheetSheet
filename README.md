@@ -27,5 +27,6 @@ The collection of cheetsheet for you to practise and revise.
 20. Pytorch
 21. R for Data Science
 22. Glossary list of ML terms
+23. Mathematics formulae that changed the world
 
 I will keep updating the list.  Fork it to get the updates
